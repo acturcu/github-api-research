@@ -11,3 +11,6 @@ target
 dependency-reduced-pom.xml
 .factorypath
 .vscode/settings.json
+
+src/main/java/research/resources/auth.txt
+downloads/*
